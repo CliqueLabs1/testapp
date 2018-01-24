@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 
 gem 'bootstrap', '~> 4.0'
+
+gem 'stock_quote', '~> 1.5', '>= 1.5.4'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
